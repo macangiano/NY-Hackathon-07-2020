@@ -44,8 +44,8 @@ ___
 - [ ] Outdoors 
 - [ ] Hand Sanitizing Stations 
 - [ ] Gloves 
-- [ ]All of the Above 
-- [ ]None of the Above
+- [ ] All of the Above 
+- [ ] None of the Above
 ___
 9) If you were to go to a live event, how comfortable are you buying food and drinks?
 - [ ] 0 
